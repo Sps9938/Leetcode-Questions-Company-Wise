@@ -4,6 +4,23 @@
 
 **Total questions:** 77
 
+## Sorting
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| EASY | Majority Element | [Open on LeetCode](https://leetcode.com/problems/majority-element) | Array, Hash Table, Divide and Conquer, Counting, Boyer–Moore Majority Vote Algorithm |
+| EASY | Maximum Units on a Truck | [Open on LeetCode](https://leetcode.com/problems/maximum-units-on-a-truck) | Array, Greedy |
+| MEDIUM | 3Sum Closest | [Open on LeetCode](https://leetcode.com/problems/3sum-closest) | Array, Two Pointers |
+| MEDIUM | Car Pooling | [Open on LeetCode](https://leetcode.com/problems/car-pooling) | Array, Heap (Priority Queue), Simulation, Prefix Sum |
+| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Greedy, Sliding Window, Prefix Sum |
+| MEDIUM | Kth Largest Element in an Array | [Open on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Array, Divide and Conquer, Heap (Priority Queue), Quickselect |
+| MEDIUM | Largest Number | [Open on LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Greedy |
+| MEDIUM | Longest String Chain | [Open on LeetCode](https://leetcode.com/problems/longest-string-chain) | Array, Hash Table, Two Pointers, String, Dynamic Programming |
+| MEDIUM | Maximum Bags With Full Capacity of Rocks | [Open on LeetCode](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | Array, Greedy |
+| MEDIUM | Two City Scheduling | [Open on LeetCode](https://leetcode.com/problems/two-city-scheduling) | Array, Greedy, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| HARD | Minimum Cost to Cut a Stick | [Open on LeetCode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | Array, Dynamic Programming |
+| HARD | Russian Doll Envelopes | [Open on LeetCode](https://leetcode.com/problems/russian-doll-envelopes) | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
+
 ## Array
 
 | Difficulty | Question | Link | Other Topics |
@@ -88,18 +105,24 @@
 | MEDIUM | Reverse Words in a String | [Open on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string) | Two Pointers |
 | HARD | Palindrome Partitioning II | [Open on LeetCode](https://leetcode.com/problems/palindrome-partitioning-ii) | Dynamic Programming |
 
+## Binary Search
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Greedy, Sliding Window, Sorting, Prefix Sum |
+| MEDIUM | Koko Eating Bananas | [Open on LeetCode](https://leetcode.com/problems/koko-eating-bananas) | Array |
+| MEDIUM | Longest Increasing Subsequence | [Open on LeetCode](https://leetcode.com/problems/longest-increasing-subsequence) | Array, Dynamic Programming, Longest Increasing Subsequence |
+| MEDIUM | Max Consecutive Ones III | [Open on LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii) | Array, Sliding Window, Prefix Sum |
+| HARD | Count of Range Sum | [Open on LeetCode](https://leetcode.com/problems/count-of-range-sum) | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap |
+| HARD | Median of Two Sorted Arrays | [Open on LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays) | Array, Divide and Conquer |
+| HARD | Russian Doll Envelopes | [Open on LeetCode](https://leetcode.com/problems/russian-doll-envelopes) | Array, Dynamic Programming, Sorting, Longest Increasing Subsequence |
+
 ## Linked List
 
 | Difficulty | Question | Link | Other Topics |
 |---|---|---|---|
 | EASY | Linked List Cycle | [Open on LeetCode](https://leetcode.com/problems/linked-list-cycle) | Hash Table, Two Pointers, Floyd's Cycle Finding Algorithm |
 | MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Hash Table, Design, Doubly-Linked List |
-
-## Doubly-Linked List
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Hash Table, Linked List, Design |
 
 ## Stack
 
@@ -117,136 +140,6 @@
 | MEDIUM | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Open on LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Array, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue |
 | MEDIUM | Maximum Sum Circular Subarray | [Open on LeetCode](https://leetcode.com/problems/maximum-sum-circular-subarray) | Array, Divide and Conquer, Dynamic Programming, Monotonic Queue |
 | HARD | Sliding Window Maximum | [Open on LeetCode](https://leetcode.com/problems/sliding-window-maximum) | Array, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query |
-
-## Hash Table
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| EASY | Linked List Cycle | [Open on LeetCode](https://leetcode.com/problems/linked-list-cycle) | Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
-| EASY | Majority Element | [Open on LeetCode](https://leetcode.com/problems/majority-element) | Array, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
-| EASY | Two Sum | [Open on LeetCode](https://leetcode.com/problems/two-sum) | Array |
-| MEDIUM | Equal Sum Arrays With Minimum Number of Operations | [Open on LeetCode](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | Array, Greedy, Counting |
-| MEDIUM | Letter Combinations of a Phone Number | [Open on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | String, Backtracking |
-| MEDIUM | Longest Consecutive Sequence | [Open on LeetCode](https://leetcode.com/problems/longest-consecutive-sequence) | Array, Union-Find |
-| MEDIUM | Longest Ideal Subsequence | [Open on LeetCode](https://leetcode.com/problems/longest-ideal-subsequence) | String, Dynamic Programming |
-| MEDIUM | Longest String Chain | [Open on LeetCode](https://leetcode.com/problems/longest-string-chain) | Array, Two Pointers, String, Dynamic Programming, Sorting |
-| MEDIUM | Longest Substring Without Repeating Characters | [Open on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | String, Sliding Window |
-| MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Linked List, Design, Doubly-Linked List |
-| MEDIUM | Subarray Sum Equals K | [Open on LeetCode](https://leetcode.com/problems/subarray-sum-equals-k) | Array, Prefix Sum |
-
-## Two Pointers
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| EASY | Linked List Cycle | [Open on LeetCode](https://leetcode.com/problems/linked-list-cycle) | Hash Table, Linked List, Floyd's Cycle Finding Algorithm |
-| EASY | Move Zeroes | [Open on LeetCode](https://leetcode.com/problems/move-zeroes) | Array |
-| MEDIUM | 3Sum Closest | [Open on LeetCode](https://leetcode.com/problems/3sum-closest) | Array, Sorting |
-| MEDIUM | Longest String Chain | [Open on LeetCode](https://leetcode.com/problems/longest-string-chain) | Array, Hash Table, String, Dynamic Programming, Sorting |
-| MEDIUM | Minimum Number of Swaps to Make the String Balanced | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | String, Stack, Greedy, Bracket Sequences |
-| MEDIUM | Reverse Words in a String | [Open on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string) | String |
-| HARD | Trapping Rain Water | [Open on LeetCode](https://leetcode.com/problems/trapping-rain-water) | Array, Dynamic Programming, Stack, Monotonic Stack |
-
-## Sliding Window
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Greedy, Sorting, Prefix Sum |
-| MEDIUM | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Open on LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Array, Queue, Heap (Priority Queue), Ordered Set, Monotonic Queue |
-| MEDIUM | Longest Substring Without Repeating Characters | [Open on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table, String |
-| MEDIUM | Max Consecutive Ones III | [Open on LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii) | Array, Binary Search, Prefix Sum |
-| MEDIUM | Maximum Points You Can Obtain from Cards | [Open on LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Array, Prefix Sum |
-| HARD | Sliding Window Maximum | [Open on LeetCode](https://leetcode.com/problems/sliding-window-maximum) | Array, Queue, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query |
-
-## Binary Search
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Greedy, Sliding Window, Sorting, Prefix Sum |
-| MEDIUM | Koko Eating Bananas | [Open on LeetCode](https://leetcode.com/problems/koko-eating-bananas) | Array |
-| MEDIUM | Longest Increasing Subsequence | [Open on LeetCode](https://leetcode.com/problems/longest-increasing-subsequence) | Array, Dynamic Programming, Longest Increasing Subsequence |
-| MEDIUM | Max Consecutive Ones III | [Open on LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii) | Array, Sliding Window, Prefix Sum |
-| HARD | Count of Range Sum | [Open on LeetCode](https://leetcode.com/problems/count-of-range-sum) | Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap |
-| HARD | Median of Two Sorted Arrays | [Open on LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays) | Array, Divide and Conquer |
-| HARD | Russian Doll Envelopes | [Open on LeetCode](https://leetcode.com/problems/russian-doll-envelopes) | Array, Dynamic Programming, Sorting, Longest Increasing Subsequence |
-
-## Sorting
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| EASY | Majority Element | [Open on LeetCode](https://leetcode.com/problems/majority-element) | Array, Hash Table, Divide and Conquer, Counting, Boyer–Moore Majority Vote Algorithm |
-| EASY | Maximum Units on a Truck | [Open on LeetCode](https://leetcode.com/problems/maximum-units-on-a-truck) | Array, Greedy |
-| MEDIUM | 3Sum Closest | [Open on LeetCode](https://leetcode.com/problems/3sum-closest) | Array, Two Pointers |
-| MEDIUM | Car Pooling | [Open on LeetCode](https://leetcode.com/problems/car-pooling) | Array, Heap (Priority Queue), Simulation, Prefix Sum |
-| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Greedy, Sliding Window, Prefix Sum |
-| MEDIUM | Kth Largest Element in an Array | [Open on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Array, Divide and Conquer, Heap (Priority Queue), Quickselect |
-| MEDIUM | Largest Number | [Open on LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Greedy |
-| MEDIUM | Longest String Chain | [Open on LeetCode](https://leetcode.com/problems/longest-string-chain) | Array, Hash Table, Two Pointers, String, Dynamic Programming |
-| MEDIUM | Maximum Bags With Full Capacity of Rocks | [Open on LeetCode](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | Array, Greedy |
-| MEDIUM | Two City Scheduling | [Open on LeetCode](https://leetcode.com/problems/two-city-scheduling) | Array, Greedy, Hungarian Algorithm, Successive Shortest Path Algorithm |
-| HARD | Minimum Cost to Cut a Stick | [Open on LeetCode](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | Array, Dynamic Programming |
-| HARD | Russian Doll Envelopes | [Open on LeetCode](https://leetcode.com/problems/russian-doll-envelopes) | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence |
-
-## Prefix Sum
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Car Pooling | [Open on LeetCode](https://leetcode.com/problems/car-pooling) | Array, Sorting, Heap (Priority Queue), Simulation |
-| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Greedy, Sliding Window, Sorting |
-| MEDIUM | Max Consecutive Ones III | [Open on LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii) | Array, Binary Search, Sliding Window |
-| MEDIUM | Maximum Points You Can Obtain from Cards | [Open on LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Array, Sliding Window |
-| MEDIUM | Subarray Sum Equals K | [Open on LeetCode](https://leetcode.com/problems/subarray-sum-equals-k) | Array, Hash Table |
-| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
-
-## Matrix
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Minimum Path Sum | [Open on LeetCode](https://leetcode.com/problems/minimum-path-sum) | Array, Dynamic Programming |
-| HARD | Longest Increasing Path in a Matrix | [Open on LeetCode](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Directed Acyclic Graph |
-
-## Heap (Priority Queue)
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Car Pooling | [Open on LeetCode](https://leetcode.com/problems/car-pooling) | Array, Sorting, Simulation, Prefix Sum |
-| MEDIUM | Kth Largest Element in an Array | [Open on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Array, Divide and Conquer, Sorting, Quickselect |
-| MEDIUM | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Open on LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Array, Queue, Sliding Window, Ordered Set, Monotonic Queue |
-| HARD | Minimum Number of Refueling Stops | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops) | Array, Dynamic Programming, Greedy |
-| HARD | Pizza With 3n Slices | [Open on LeetCode](https://leetcode.com/problems/pizza-with-3n-slices) | Array, Dynamic Programming, Greedy |
-| HARD | Sliding Window Maximum | [Open on LeetCode](https://leetcode.com/problems/sliding-window-maximum) | Array, Queue, Sliding Window, Monotonic Queue, Range Minimum/Maximum Query |
-
-## Greedy
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| EASY | Lemonade Change | [Open on LeetCode](https://leetcode.com/problems/lemonade-change) | Array |
-| EASY | Maximum Units on a Truck | [Open on LeetCode](https://leetcode.com/problems/maximum-units-on-a-truck) | Array, Sorting |
-| EASY | Minimum Cost to Move Chips to The Same Position | [Open on LeetCode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Array, Math |
-| EASY | Minimum Operations to Make the Array Increasing | [Open on LeetCode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Array |
-| EASY | Split a String in Balanced Strings | [Open on LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings) | String, Counting |
-| MEDIUM | Best Time to Buy and Sell Stock II | [Open on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Array, Dynamic Programming |
-| MEDIUM | Best Time to Buy and Sell Stock with Transaction Fee | [Open on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | Array, Dynamic Programming |
-| MEDIUM | Equal Sum Arrays With Minimum Number of Operations | [Open on LeetCode](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | Array, Hash Table, Counting |
-| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Sliding Window, Sorting, Prefix Sum |
-| MEDIUM | Gas Station | [Open on LeetCode](https://leetcode.com/problems/gas-station) | Array |
-| MEDIUM | Jump Game | [Open on LeetCode](https://leetcode.com/problems/jump-game) | Array, Dynamic Programming |
-| MEDIUM | Largest Number | [Open on LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Sorting |
-| MEDIUM | Maximum Bags With Full Capacity of Rocks | [Open on LeetCode](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | Array, Sorting |
-| MEDIUM | Minimum Number of Swaps to Make the String Balanced | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | Two Pointers, String, Stack, Bracket Sequences |
-| MEDIUM | Minimum Sideway Jumps | [Open on LeetCode](https://leetcode.com/problems/minimum-sideway-jumps) | Array, Dynamic Programming |
-| MEDIUM | Two City Scheduling | [Open on LeetCode](https://leetcode.com/problems/two-city-scheduling) | Array, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
-| HARD | Candy | [Open on LeetCode](https://leetcode.com/problems/candy) | Array |
-| HARD | Minimum Number of Increments on Subarrays to Form a Target Array | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | Array, Dynamic Programming, Stack, Monotonic Stack |
-| HARD | Minimum Number of Refueling Stops | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops) | Array, Dynamic Programming, Heap (Priority Queue) |
-| HARD | Pizza With 3n Slices | [Open on LeetCode](https://leetcode.com/problems/pizza-with-3n-slices) | Array, Dynamic Programming, Heap (Priority Queue) |
-
-## Backtracking
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Generate Parentheses | [Open on LeetCode](https://leetcode.com/problems/generate-parentheses) | String, Dynamic Programming, Bracket Sequences |
-| MEDIUM | Letter Combinations of a Phone Number | [Open on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Hash Table, String |
-| MEDIUM | Palindrome Partitioning | [Open on LeetCode](https://leetcode.com/problems/palindrome-partitioning) | String, Dynamic Programming |
 
 ## Dynamic Programming
 
@@ -293,6 +186,125 @@
 | HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Minimax, Prefix Sum, Game Theory, Zero-Sum Game |
 | HARD | Trapping Rain Water | [Open on LeetCode](https://leetcode.com/problems/trapping-rain-water) | Array, Two Pointers, Stack, Monotonic Stack |
 
+## Greedy
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| EASY | Lemonade Change | [Open on LeetCode](https://leetcode.com/problems/lemonade-change) | Array |
+| EASY | Maximum Units on a Truck | [Open on LeetCode](https://leetcode.com/problems/maximum-units-on-a-truck) | Array, Sorting |
+| EASY | Minimum Cost to Move Chips to The Same Position | [Open on LeetCode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Array, Math |
+| EASY | Minimum Operations to Make the Array Increasing | [Open on LeetCode](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing) | Array |
+| EASY | Split a String in Balanced Strings | [Open on LeetCode](https://leetcode.com/problems/split-a-string-in-balanced-strings) | String, Counting |
+| MEDIUM | Best Time to Buy and Sell Stock II | [Open on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Array, Dynamic Programming |
+| MEDIUM | Best Time to Buy and Sell Stock with Transaction Fee | [Open on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | Array, Dynamic Programming |
+| MEDIUM | Equal Sum Arrays With Minimum Number of Operations | [Open on LeetCode](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | Array, Hash Table, Counting |
+| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Sliding Window, Sorting, Prefix Sum |
+| MEDIUM | Gas Station | [Open on LeetCode](https://leetcode.com/problems/gas-station) | Array |
+| MEDIUM | Jump Game | [Open on LeetCode](https://leetcode.com/problems/jump-game) | Array, Dynamic Programming |
+| MEDIUM | Largest Number | [Open on LeetCode](https://leetcode.com/problems/largest-number) | Array, String, Sorting |
+| MEDIUM | Maximum Bags With Full Capacity of Rocks | [Open on LeetCode](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | Array, Sorting |
+| MEDIUM | Minimum Number of Swaps to Make the String Balanced | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | Two Pointers, String, Stack, Bracket Sequences |
+| MEDIUM | Minimum Sideway Jumps | [Open on LeetCode](https://leetcode.com/problems/minimum-sideway-jumps) | Array, Dynamic Programming |
+| MEDIUM | Two City Scheduling | [Open on LeetCode](https://leetcode.com/problems/two-city-scheduling) | Array, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm |
+| HARD | Candy | [Open on LeetCode](https://leetcode.com/problems/candy) | Array |
+| HARD | Minimum Number of Increments on Subarrays to Form a Target Array | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array) | Array, Dynamic Programming, Stack, Monotonic Stack |
+| HARD | Minimum Number of Refueling Stops | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops) | Array, Dynamic Programming, Heap (Priority Queue) |
+| HARD | Pizza With 3n Slices | [Open on LeetCode](https://leetcode.com/problems/pizza-with-3n-slices) | Array, Dynamic Programming, Heap (Priority Queue) |
+
+## Two Pointers
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| EASY | Linked List Cycle | [Open on LeetCode](https://leetcode.com/problems/linked-list-cycle) | Hash Table, Linked List, Floyd's Cycle Finding Algorithm |
+| EASY | Move Zeroes | [Open on LeetCode](https://leetcode.com/problems/move-zeroes) | Array |
+| MEDIUM | 3Sum Closest | [Open on LeetCode](https://leetcode.com/problems/3sum-closest) | Array, Sorting |
+| MEDIUM | Longest String Chain | [Open on LeetCode](https://leetcode.com/problems/longest-string-chain) | Array, Hash Table, String, Dynamic Programming, Sorting |
+| MEDIUM | Minimum Number of Swaps to Make the String Balanced | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced) | String, Stack, Greedy, Bracket Sequences |
+| MEDIUM | Reverse Words in a String | [Open on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string) | String |
+| HARD | Trapping Rain Water | [Open on LeetCode](https://leetcode.com/problems/trapping-rain-water) | Array, Dynamic Programming, Stack, Monotonic Stack |
+
+## Sliding Window
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Greedy, Sorting, Prefix Sum |
+| MEDIUM | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Open on LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Array, Queue, Heap (Priority Queue), Ordered Set, Monotonic Queue |
+| MEDIUM | Longest Substring Without Repeating Characters | [Open on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Hash Table, String |
+| MEDIUM | Max Consecutive Ones III | [Open on LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii) | Array, Binary Search, Prefix Sum |
+| MEDIUM | Maximum Points You Can Obtain from Cards | [Open on LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Array, Prefix Sum |
+| HARD | Sliding Window Maximum | [Open on LeetCode](https://leetcode.com/problems/sliding-window-maximum) | Array, Queue, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query |
+
+## Tree
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+
+## Graph
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Longest Increasing Path in a Matrix | [Open on LeetCode](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Topological Sort, Memoization, Matrix, Directed Acyclic Graph |
+
+## Doubly-Linked List
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Hash Table, Linked List, Design |
+
+## Hash Table
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| EASY | Linked List Cycle | [Open on LeetCode](https://leetcode.com/problems/linked-list-cycle) | Linked List, Two Pointers, Floyd's Cycle Finding Algorithm |
+| EASY | Majority Element | [Open on LeetCode](https://leetcode.com/problems/majority-element) | Array, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm |
+| EASY | Two Sum | [Open on LeetCode](https://leetcode.com/problems/two-sum) | Array |
+| MEDIUM | Equal Sum Arrays With Minimum Number of Operations | [Open on LeetCode](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | Array, Greedy, Counting |
+| MEDIUM | Letter Combinations of a Phone Number | [Open on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | String, Backtracking |
+| MEDIUM | Longest Consecutive Sequence | [Open on LeetCode](https://leetcode.com/problems/longest-consecutive-sequence) | Array, Union-Find |
+| MEDIUM | Longest Ideal Subsequence | [Open on LeetCode](https://leetcode.com/problems/longest-ideal-subsequence) | String, Dynamic Programming |
+| MEDIUM | Longest String Chain | [Open on LeetCode](https://leetcode.com/problems/longest-string-chain) | Array, Two Pointers, String, Dynamic Programming, Sorting |
+| MEDIUM | Longest Substring Without Repeating Characters | [Open on LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters) | String, Sliding Window |
+| MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Linked List, Design, Doubly-Linked List |
+| MEDIUM | Subarray Sum Equals K | [Open on LeetCode](https://leetcode.com/problems/subarray-sum-equals-k) | Array, Prefix Sum |
+
+## Prefix Sum
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Car Pooling | [Open on LeetCode](https://leetcode.com/problems/car-pooling) | Array, Sorting, Heap (Priority Queue), Simulation |
+| MEDIUM | Frequency of the Most Frequent Element | [Open on LeetCode](https://leetcode.com/problems/frequency-of-the-most-frequent-element) | Array, Binary Search, Greedy, Sliding Window, Sorting |
+| MEDIUM | Max Consecutive Ones III | [Open on LeetCode](https://leetcode.com/problems/max-consecutive-ones-iii) | Array, Binary Search, Sliding Window |
+| MEDIUM | Maximum Points You Can Obtain from Cards | [Open on LeetCode](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | Array, Sliding Window |
+| MEDIUM | Subarray Sum Equals K | [Open on LeetCode](https://leetcode.com/problems/subarray-sum-equals-k) | Array, Hash Table |
+| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Minimax, Game Theory, Zero-Sum Game |
+
+## Matrix
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Minimum Path Sum | [Open on LeetCode](https://leetcode.com/problems/minimum-path-sum) | Array, Dynamic Programming |
+| HARD | Longest Increasing Path in a Matrix | [Open on LeetCode](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Directed Acyclic Graph |
+
+## Heap (Priority Queue)
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Car Pooling | [Open on LeetCode](https://leetcode.com/problems/car-pooling) | Array, Sorting, Simulation, Prefix Sum |
+| MEDIUM | Kth Largest Element in an Array | [Open on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array) | Array, Divide and Conquer, Sorting, Quickselect |
+| MEDIUM | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Open on LeetCode](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Array, Queue, Sliding Window, Ordered Set, Monotonic Queue |
+| HARD | Minimum Number of Refueling Stops | [Open on LeetCode](https://leetcode.com/problems/minimum-number-of-refueling-stops) | Array, Dynamic Programming, Greedy |
+| HARD | Pizza With 3n Slices | [Open on LeetCode](https://leetcode.com/problems/pizza-with-3n-slices) | Array, Dynamic Programming, Greedy |
+| HARD | Sliding Window Maximum | [Open on LeetCode](https://leetcode.com/problems/sliding-window-maximum) | Array, Queue, Sliding Window, Monotonic Queue, Range Minimum/Maximum Query |
+
+## Backtracking
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Generate Parentheses | [Open on LeetCode](https://leetcode.com/problems/generate-parentheses) | String, Dynamic Programming, Bracket Sequences |
+| MEDIUM | Letter Combinations of a Phone Number | [Open on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Hash Table, String |
+| MEDIUM | Palindrome Partitioning | [Open on LeetCode](https://leetcode.com/problems/palindrome-partitioning) | String, Dynamic Programming |
+
+### Dynamic Programming
 ## Memoization
 
 | Difficulty | Question | Link | Other Topics |
@@ -343,6 +355,7 @@
 | HARD | Count of Range Sum | [Open on LeetCode](https://leetcode.com/problems/count-of-range-sum) | Array, Binary Search, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap |
 | HARD | Median of Two Sorted Arrays | [Open on LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays) | Array, Binary Search |
 
+### Sorting
 ## Merge Sort
 
 | Difficulty | Question | Link | Other Topics |
@@ -369,75 +382,7 @@
 |---|---|---|---|
 | EASY | Majority Element | [Open on LeetCode](https://leetcode.com/problems/majority-element) | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 
-## Math
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| EASY | Climbing Stairs | [Open on LeetCode](https://leetcode.com/problems/climbing-stairs) | Dynamic Programming, Memoization |
-| EASY | Minimum Cost to Move Chips to The Same Position | [Open on LeetCode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Array, Greedy |
-| MEDIUM | Minimum Moves to Equal Array Elements | [Open on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | Array |
-| HARD | Good Subsequence Queries | [Open on LeetCode](https://leetcode.com/problems/good-subsequence-queries) | Array, Segment Tree, Number Theory |
-| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
-| HARD | Stone Game V | [Open on LeetCode](https://leetcode.com/problems/stone-game-v) | Array, Dynamic Programming, Game Theory |
-| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game |
-
-## Number Theory
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Good Subsequence Queries | [Open on LeetCode](https://leetcode.com/problems/good-subsequence-queries) | Array, Math, Segment Tree |
-
-## Game Theory
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
-| HARD | Stone Game V | [Open on LeetCode](https://leetcode.com/problems/stone-game-v) | Array, Math, Dynamic Programming |
-| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Minimax, Prefix Sum, Zero-Sum Game |
-
-## Minimax
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
-| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Prefix Sum, Game Theory, Zero-Sum Game |
-
-## Zero-Sum Game
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem |
-| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory |
-
-## Nim Game
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Game Theory, Sprague–Grundy Theorem, Zero-Sum Game |
-
-## Sprague–Grundy Theorem
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Zero-Sum Game |
-
-## Design
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Hash Table, Linked List, Doubly-Linked List |
-
-## Database
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| MEDIUM | Second Highest Salary | [Open on LeetCode](https://leetcode.com/problems/second-highest-salary) |  |
-
-## Graph Theory
-
-| Difficulty | Question | Link | Other Topics |
-|---|---|---|---|
-| HARD | Longest Increasing Path in a Matrix | [Open on LeetCode](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Topological Sort, Memoization, Matrix, Directed Acyclic Graph |
+### Graph
 
 ## Breadth-First Search
 
@@ -547,4 +492,69 @@
 | Difficulty | Question | Link | Other Topics |
 |---|---|---|---|
 | MEDIUM | Two City Scheduling | [Open on LeetCode](https://leetcode.com/problems/two-city-scheduling) | Array, Greedy, Sorting, Hungarian Algorithm |
+
+
+## Math
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| EASY | Climbing Stairs | [Open on LeetCode](https://leetcode.com/problems/climbing-stairs) | Dynamic Programming, Memoization |
+| EASY | Minimum Cost to Move Chips to The Same Position | [Open on LeetCode](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position) | Array, Greedy |
+| MEDIUM | Minimum Moves to Equal Array Elements | [Open on LeetCode](https://leetcode.com/problems/minimum-moves-to-equal-array-elements) | Array |
+| HARD | Good Subsequence Queries | [Open on LeetCode](https://leetcode.com/problems/good-subsequence-queries) | Array, Segment Tree, Number Theory |
+| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
+| HARD | Stone Game V | [Open on LeetCode](https://leetcode.com/problems/stone-game-v) | Array, Dynamic Programming, Game Theory |
+| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Dynamic Programming, Minimax, Prefix Sum, Game Theory, Zero-Sum Game |
+
+## Number Theory
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Good Subsequence Queries | [Open on LeetCode](https://leetcode.com/problems/good-subsequence-queries) | Array, Math, Segment Tree |
+
+## Game Theory
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
+| HARD | Stone Game V | [Open on LeetCode](https://leetcode.com/problems/stone-game-v) | Array, Math, Dynamic Programming |
+| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Minimax, Prefix Sum, Zero-Sum Game |
+
+## Minimax
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Game Theory, Nim Game, Sprague–Grundy Theorem, Zero-Sum Game |
+| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Prefix Sum, Game Theory, Zero-Sum Game |
+
+## Zero-Sum Game
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Sprague–Grundy Theorem |
+| HARD | Stone Game VIII | [Open on LeetCode](https://leetcode.com/problems/stone-game-viii) | Array, Math, Dynamic Programming, Minimax, Prefix Sum, Game Theory |
+
+## Nim Game
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Game Theory, Sprague–Grundy Theorem, Zero-Sum Game |
+
+## Sprague–Grundy Theorem
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| HARD | Stone Game IV | [Open on LeetCode](https://leetcode.com/problems/stone-game-iv) | Math, Dynamic Programming, Minimax, Game Theory, Nim Game, Zero-Sum Game |
+
+## Design
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | LRU Cache | [Open on LeetCode](https://leetcode.com/problems/lru-cache) | Hash Table, Linked List, Doubly-Linked List |
+
+## Database
+
+| Difficulty | Question | Link | Other Topics |
+|---|---|---|---|
+| MEDIUM | Second Highest Salary | [Open on LeetCode](https://leetcode.com/problems/second-highest-salary) |  |
 
